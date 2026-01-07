@@ -7,15 +7,15 @@
 				<div class="col-12 col-md-12 col-lg-5 link-list col-footer ft-info">
 					<div class="logo">
 						<a href="/" title="Logo"> <img width="172" height="50"
-							src="images/logo.png" alt="Dola Restaurant">
+							src="images/logo.png" alt="TL Food">
 						</a>
 					</div>
 
 					<div class="ft-description">Nhà hàng chúng tôi luôn luôn đặt
 						khách hàng lên hàng đầu, tận tâm phục vụ, mang lại cho khách hàng
 						những trãi nghiệm tuyệt với nhất. Các món ăn với công thức độc
-						quyền sẽ mang lại hương vị mới mẻ cho thực khách. Dola Restaurant
-						xin chân thành cảm ơn.</div>
+						quyền sẽ mang lại hương vị mới mẻ cho thực khách. 
+						TL Food xin chân thành cảm ơn.</div>
 					<div class="group-address">
 						<div class="title">Cửa hàng chính</div>
 						<ul>
@@ -23,8 +23,8 @@
 									Trung, TP.Thủ Đức, TP.HCM </span></li>
 							<li><b>Điện thoại: </b><a title="0898388564"
 								href="tel:0898388564">0898388564</a></li>
-							<li><b>Email: </b><a title="phuonghuynh131415@gmail.com"
-								href="mailto:phuonghuynh131415@gmail.com">phuonghuynh131415@gmail.com</a>
+							<li><b>Email: </b><a title="lethanhtin414@gmail.com"
+								href="mailto:lethanhtin414@gmail.com">lethanhtin414@gmail.com</a>
 							</li>
 						</ul>
 					</div>
@@ -90,8 +90,8 @@
 	</div>
 	<div id="copyright" class="copyright">
 		<div class="container">
-			<span class="copy-right">Bản quyền thuộc về <b>Dola
-					Restaurant</b>.
+			<span class="copy-right">Bản quyền thuộc về <b>TL
+					Food</b>.
 			</span>
 		</div>
 	</div>
