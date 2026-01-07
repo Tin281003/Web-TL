@@ -11,7 +11,7 @@
 				<div class="col-xl-2 col-lg-2">
 					<div class="logo">
 						<a href="trangchu" title="Logo"> <img width="172" height="50"
-							src="images/logo.png" alt="Dola Restaurant">
+							src="images/logo.png" alt="TL Food">
 						</a>
 					</div>
 				</div>
